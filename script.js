@@ -1,4 +1,4 @@
-const SERVER_URL = "https://message-board-server-7h9t.onrender.com";
+const SERVER_URL = "https://message-board-server-hnw5.onrender.com";
 
 // ===== Charger les messages au démarrage =====
 function chargerMessages() {
